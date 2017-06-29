@@ -1,4 +1,12 @@
+# Eclipse
 .classpath
 .project
 .settings/
-target/
+
+# OSX
+.DS_Store
+
+# Scripts
+*.sh
+
+# Maven
