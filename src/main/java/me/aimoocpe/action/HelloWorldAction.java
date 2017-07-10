@@ -10,7 +10,7 @@ public class HelloWorldAction extends ActionSupport{
 	 */
 	private static final long serialVersionUID = 1L;
 	private MessageStore messageStore;
-	private static int helloCount = 0;
+	private static int helloCount = 70;
 
 	public String execute() {
 		messageStore = new MessageStore();
